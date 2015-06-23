@@ -1,6 +1,6 @@
 //
-//  NewProjectTests.m
-//  NewProjectTests
+//  projectOfNewTests.m
+//  projectOfNewTests
 //
 //  Created by 大庆 on 15/6/23.
 //  Copyright (c) 2015年 com.lanou3g.Lesson-Test. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface NewProjectTests : XCTestCase
+@interface projectOfNewTests : XCTestCase
 
 @end
 
-@implementation NewProjectTests
+@implementation projectOfNewTests
 
 - (void)setUp {
     [super setUp];

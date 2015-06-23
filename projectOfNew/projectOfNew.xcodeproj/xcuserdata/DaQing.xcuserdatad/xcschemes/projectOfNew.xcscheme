@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9BD7A2351B38EF3D000836EF"
-               BuildableName = "NewProject.app"
-               BlueprintName = "NewProject"
-               ReferencedContainer = "container:NewProject.xcodeproj">
+               BlueprintIdentifier = "9BD7A26A1B38F6DC000836EF"
+               BuildableName = "projectOfNew.app"
+               BlueprintName = "projectOfNew"
+               ReferencedContainer = "container:projectOfNew.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9BD7A2511B38EF3D000836EF"
-               BuildableName = "NewProjectTests.xctest"
-               BlueprintName = "NewProjectTests"
-               ReferencedContainer = "container:NewProject.xcodeproj">
+               BlueprintIdentifier = "9BD7A2861B38F6DC000836EF"
+               BuildableName = "projectOfNewTests.xctest"
+               BlueprintName = "projectOfNewTests"
+               ReferencedContainer = "container:projectOfNew.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9BD7A2511B38EF3D000836EF"
-               BuildableName = "NewProjectTests.xctest"
-               BlueprintName = "NewProjectTests"
-               ReferencedContainer = "container:NewProject.xcodeproj">
+               BlueprintIdentifier = "9BD7A2861B38F6DC000836EF"
+               BuildableName = "projectOfNewTests.xctest"
+               BlueprintName = "projectOfNewTests"
+               ReferencedContainer = "container:projectOfNew.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9BD7A2351B38EF3D000836EF"
-            BuildableName = "NewProject.app"
-            BlueprintName = "NewProject"
-            ReferencedContainer = "container:NewProject.xcodeproj">
+            BlueprintIdentifier = "9BD7A26A1B38F6DC000836EF"
+            BuildableName = "projectOfNew.app"
+            BlueprintName = "projectOfNew"
+            ReferencedContainer = "container:projectOfNew.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9BD7A2351B38EF3D000836EF"
-            BuildableName = "NewProject.app"
-            BlueprintName = "NewProject"
-            ReferencedContainer = "container:NewProject.xcodeproj">
+            BlueprintIdentifier = "9BD7A26A1B38F6DC000836EF"
+            BuildableName = "projectOfNew.app"
+            BlueprintName = "projectOfNew"
+            ReferencedContainer = "container:projectOfNew.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9BD7A2351B38EF3D000836EF"
-            BuildableName = "NewProject.app"
-            BlueprintName = "NewProject"
-            ReferencedContainer = "container:NewProject.xcodeproj">
+            BlueprintIdentifier = "9BD7A26A1B38F6DC000836EF"
+            BuildableName = "projectOfNew.app"
+            BlueprintName = "projectOfNew"
+            ReferencedContainer = "container:projectOfNew.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
